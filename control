@@ -1,0 +1,8 @@
+Package: com.zexis.menu
+Name: Zexis
+Depends: mobilesubstrate
+Version: 2.0
+Architecture: iphoneos-arm
+Description: FuckFluorite
+Maintainer: Zexis
+Author: 068
